@@ -1,1 +1,1 @@
-# nodejs-ha
+# Node.js homework assignments
